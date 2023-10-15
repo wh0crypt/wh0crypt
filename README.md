@@ -2,7 +2,7 @@
 - 🔭 I’m currently a **Computer Engineering Sophomore at *[University of La Laguna](https://www.ull.es)***
 - 🌱 I’m currently learning **to solve machines at the *[HTB Academy](https://academy.hackthebox.com)* and practising [Cryptography](https://en.wikipedia.org/wiki/Cryptography) and [Pentesting (Red Team)](https://en.wikipedia.org/wiki/Penetration_test)**
 - 💬 **A lot of useful and contact information is available on [my main account](https://github.com/domenicogoya), used for professional and personal stuff. Check it out!**
-- 📫 How to reach me: **[Cybersecurity dedicated e-mail](mailto:part3n0p3contact@gmail.com), other main platforms are on [my main account](https://github.com/domenicogoya)***
+- 📫 How to reach me: **[Cybersecurity dedicated e-mail](mailto:part3n0p3contact@gmail.com), other main platforms are on [my main account](https://github.com/domenicogoya)**
 - ⚡ Fun fact: **Python hates me**
 
 <!--
