@@ -1,11 +1,12 @@
-### 👋 Hi there, I'm **[@wh0crypt](https://github.com/wh0crypt), also known as [@domenicogoya](https://github.com/domenicogoya)**
+### 👋 Hi there, I'm **[@wh0crypt](https://github.com/wh0crypt)**
 - 🔭 I’m currently a **Computer Engineering Sophomore at *[University of La Laguna](https://www.ull.es)***
-- 🌱 I’m currently learning **to solve machines at the *[HTB Academy](https://academy.hackthebox.com)* and practising [Cryptography](https://en.wikipedia.org/wiki/Cryptography) and [Pentesting](https://en.wikipedia.org/wiki/Penetration_test)**
-- 💬 **All my contact information is available on [my main account](https://github.com/domenicogoya), used for professional and personal stuff. Check it out!**
-- 📫 How to reach me: **Discord (part3n0p3), [Cybersecurity dedicated e-mail](mailto:part3n0p3contact@gmail.com)**
-- ⚡ Fun fact: **Python hates me**
+- 🌱 I’m currently learning **to solve machines at *[HTB](https://app.hackthebox.com)* and practising [Pentesting](https://en.wikipedia.org/wiki/Penetration_test)**
+- 💻 I'm currently programming in **[C](https://en.wikipedia.org/wiki/C_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B), [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) and [Assembly](https://en.wikipedia.org/wiki/Assembly_language)**
+- 💬 My main fields are **[Crypto](https://ctf101.org/cryptography/overview/), [Reversing](https://ctf101.org/reverse-engineering/overview/), [Binary](https://ctf101.org/binary-exploitation/overview/) and [Pwn](https://delinea.com/what-is/pwn)**
+- 📫 How to reach me: **[Telegram](https://t.me/wh0crypt), Discord (wh0crypt) or [E-Mail](mailto:part3n0p3contact@gmail.com)**
+- ⚡ Fun fact: **I hate Python**
 
 <!--
-**part3n0p3/part3n0p3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wh0crypt/wh0crypt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
