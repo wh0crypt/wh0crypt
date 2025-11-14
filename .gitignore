@@ -1,0 +1,27 @@
+# Python bytecode / caches
+__pycache__/
+*.py[co]
+
+# Environments
+.venv/
+
+# Build artifacts
+build/
+dist/
+wheels/
+*.egg-info
+
+# Tool caches
+.ruff_cache/
+.uv_cache/
+
+# Environment files
+.env
+.vscode/
+
+# Optional: local test outputs or logs
+*.log
+
+# Local files
+todo.txt
+.idea/
