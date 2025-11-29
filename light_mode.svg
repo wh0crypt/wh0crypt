@@ -59,7 +59,6 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Markdown, JSON, YAML, TOML</tspan>
 <tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Verilog, VHDL</tspan>
 <tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Spanish, Italian, English, Portuguese</tspan>
-<tspan x="390" y="270" class="cc">. </tspan>
 <tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">RE, Pwn, Malware</tspan>
 <tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">RF, CPU, PCB, FPGA, Arduino, ESP32</tspan>
 <tspan x="390" y="350">- Contact</tspan> -——————————————————————————————————————————————-—-
